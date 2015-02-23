@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+StepperDS	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+step	KEYWORD2
+stepDeg	KEYWORD2
+setSpeed	KEYWORD2
+setMicroStepping	KEYWORD2
+version	KEYWORD2
+
+######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+STEP_EDGE	LITERAL1
+DEFAULT_RPM	LITERAL1
+DEFAULT_STEPS	LITERAL1
+DEFAULT_MICRO	LITERAL1
+MS_PER_MIN	LITERAL1
+
